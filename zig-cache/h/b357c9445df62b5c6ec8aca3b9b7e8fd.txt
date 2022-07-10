@@ -1,0 +1,2 @@
+875824 123402 1657476606226886900 63ebe9a627a14e3d5142fa8a798228de /run/media/hasanali/06A8CBC8A8CBB489/zig/zig-cache/o/ace456fd2a358cf5ddfb20f5abd0d8c9/zig.o
+61950 28397741 1657344716243240938 c6b32cf70f7e880071fe3a167c0f2431 /home/hasanali/.cache/zig/o/a7a5faacefd64bff463cf6cfbbc87a0e/libcompiler_rt.a
